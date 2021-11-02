@@ -73,7 +73,7 @@ By Ellis Brown, 10/27/2020
 
 7) other
 
-    What does this code do? (assume it compiles)
+    What does this code do? (assume it compiles) [NOT ON ANY EXAM, but good to understand]
 
         int main() {
             int *ptr = new int[3];
