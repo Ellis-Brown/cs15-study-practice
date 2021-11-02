@@ -6,7 +6,6 @@ By Ellis Brown, 10/27/2020
 1) Describe the benefits and negatives of using the following data structures, and one time you would use them
 
     a) Linked list
-        a1) circular buffer
 
     b) ArrayList
 
@@ -15,6 +14,8 @@ By Ellis Brown, 10/27/2020
     d) Queue
 
     e) Binary Search Tree
+
+    f) CirrcularBuffer
 
 
 
@@ -37,7 +38,7 @@ By Ellis Brown, 10/27/2020
 
 
 
-4) Binary tree.
+4) Binary tree. (not AVL tree)
 
     a) Insert the following elements into a in order binary tree
 
@@ -70,6 +71,8 @@ By Ellis Brown, 10/27/2020
     a) define Modularity. Why is it important?
     
     b) define encapsulation. Why is it important?
+
+    c) define Invariant. Why is it important?
 
 7) other
 
