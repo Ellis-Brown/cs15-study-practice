@@ -1,0 +1,91 @@
+Comp 15 Midterm review general questions. This does not cover all content on the midterm,
+but goes over some questions that are important to understand.
+
+By Ellis Brown, 10/27/2020
+
+1) Describe the benefits and negatives of using the following data structures, and one time you would use them
+
+    a) Linked list
+        a1) circular buffer
+
+    b) ArrayList
+
+    c) Stack
+
+    d) Queue
+
+    e) Binary Search Tree
+
+
+
+2) Define invariants:
+
+    a) Describe the invariants of a binary tree
+
+    b) Describe the invariants of a stack
+
+    c) Describe the invariants of a queue
+
+    d) Describe the invariants of a single linked list
+
+    e) Describe the invariants of a double linked list
+
+    f) Describe the invariants of a vector/ArrayList
+
+
+
+
+
+
+4) Binary tree.
+
+    a) Insert the following elements into a in order binary tree
+
+        1, 4 , 3 , 7 , 2 , 0 , 9 , 14
+
+        a1) is it balenced? Why or why not?
+
+    b) What is the runtime of finding the smallest element?
+
+    c) What is an inorder traversal? What would the outcome be?
+
+    d) What is a post order traversal? What would the outcome be?
+
+    e) What is a pre order traversal? What would the outcome be?
+
+    f) Remove the root from the tree. Use any element that satisifies the binary tree's invariance
+
+    g) What is an AVL tree? Why would we use it? *if you don't know, search it up online. please know this!*
+
+5) Purpose.
+
+    a) What would a good purpose be for the following classes? (written at top of file)
+        a1) DatumStack
+        a2) MetroSim
+        a3) Passenger
+        a4) CirrcularBuffer
+    
+6) Keywords
+
+    a) define Modularity. Why is it important?
+    
+    b) define encapsulation. Why is it important?
+
+7) other
+
+    What does this code do? (assume it compiles)
+
+        int main() {
+            int *ptr = new int[3];
+            ptr[0] = 3;
+            foo(ptr);
+            std::cout << ptr[0]
+        }
+        void foo(int *ptr) {
+            ptr = nullptr;
+        }
+
+
+
+= ^ . ^ -
+comp cat
