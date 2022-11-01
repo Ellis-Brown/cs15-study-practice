@@ -66,7 +66,7 @@ bool searchArray(int *arr, int size, int target, int index) {
         return true;
     }
     else {
-        searchArray(arr, size, target, index+1);
+        return searchArray(arr, size, target, index+1);
     }
     return false; //return false if not found
 }
